@@ -8,7 +8,7 @@ This project displays a random coding meme in your Linux terminal every time it 
 
 ## Requirements
 - Python 3.x
-- `chafa` for displaying images in the terminal (install using `sudo apt install chafa`).
+- `chafa` for displaying images in the terminal (install using `sudo pacman install chafa`).
 
 ## Setup
 1. Clone this repository:
