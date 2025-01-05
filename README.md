@@ -29,12 +29,5 @@ This project displays a random coding meme in your Linux terminal every time it 
 
 4. Restart your terminal to see the magic!
 
-## Example
-![Example Terminal Screenshot](assets/example.png)
 
-## Contributing
-Feel free to submit pull requests or report issues.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
